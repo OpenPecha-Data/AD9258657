@@ -1,0 +1,23 @@
+segment_sources:
+  I543641EF:
+    type: origin_type
+    relation: translation
+    language: sa
+  I49542693:
+    type: origin_type
+    relation: translation
+    language: zh
+  I8F3FA5A7:
+    type: origin_type
+    relation: translation
+    language: zh
+  I5496E77C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e8a9d3aa7b2847b4b5a08078a6ad7b2a:
+    I543641EF: 29cbe5dcae774431b64403b68ce2d932
+    I49542693: 091bf448829c4f409298a91cf24a4541
+    I8F3FA5A7: 2c866b852f3e40f185b39ecbbc3dbeee
+    I5496E77C: 5a42a6e6a1084a968904b50fbadfd307
